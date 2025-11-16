@@ -1,0 +1,7 @@
+
+path: ./iteration_3
+train: train_selected/images
+val: ../yolo_dataset/test/images
+
+nc: 1
+names: ['Graffiti']
